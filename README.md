@@ -1,2 +1,2 @@
 # BinaryToDecimal
-Binar yTo Decimal
+Binary To Decimal

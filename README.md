@@ -41,17 +41,7 @@ This Java application allows you to convert binary numbers to decimal numbers. I
         - Option 3: Exit the program.
     - Enter the binary number when prompted.
 
-## Example
 
-Options
-1 - Binary to Decimal
-2 - Reverse Binary to Decimal
-3 - Exit
-Please enter your option :
-1
-Please enter a number :
-1010
-Converted Number : 10
 
 
 
